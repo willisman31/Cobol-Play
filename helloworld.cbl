@@ -7,5 +7,4 @@
            DISPLAY '#!!!HELLO WORLD!!!#'.
            DISPLAY '#!!!!!!!!!!!!!!!!!#'.
            DISPLAY '###################'.
-       STOP RUN.
-
+           STOP RUN.
