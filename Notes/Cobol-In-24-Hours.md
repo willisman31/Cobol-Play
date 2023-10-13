@@ -22,4 +22,13 @@
         - a D in column 7 indicates debugging mode and the line is only included when the program is compiled in debugging mode
         - any other character in col 7 is ignored by the compiler
     - *Area A* = columns 8-11
-        - 
+        - sectioning/divisioning info
+    - *Area B* = columns 12-72
+        - program logic
+    - columns 73-80 are typically ignored by the compiler
+- COBOL programs have 4 divisions
+    - identification
+        - this is the only required division
+        - identifies program to compiler
+        - consists of one section: PROGRAM-ID
+            - 
